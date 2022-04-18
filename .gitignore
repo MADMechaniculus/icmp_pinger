@@ -1,0 +1,8 @@
+builds
+build
+Makefile
+CMakeCache.txt
+CMakeFiles
+*.o
+*.so.*
+*.pro.*
